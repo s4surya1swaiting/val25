@@ -21,9 +21,9 @@ export default function FinalSurpriseSection() {
         >
           ☕
         </motion.div>
-        <h2 className="text-3xl md:text-4xl font-bold mb-4 text-glow">Tui amar chocolate</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mb-4 text-glow">Tui amar cup of hot chocolate</h2>
         <p className="text-lg max-w-2xl mx-auto mb-6">
-          Tui jodi konodin mon kharap hoy, ei site ta khule dekhis karon amar kache tor mane ekta chocolate er moto 
+          Tor jodi konodin mon kharap hoy, ei site ta khule dekhis karon amar kache tor mane ekta chocolate er moto 
           shobcheye priyo, shobcheye shokto, ar shobcheye beshi energy dayok.
         </p>
         <motion.button
@@ -47,7 +47,7 @@ export default function FinalSurpriseSection() {
             transition={{ repeat: Number.POSITIVE_INFINITY, duration: 2 }}
             className="text-9xl text-red-500 text-glow"
           >
-            ❤️
+            Happy Valentines' to my Valentine❤️
           </motion.div>
         </motion.div>
       )}
