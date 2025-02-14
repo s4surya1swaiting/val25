@@ -5,8 +5,8 @@ import { motion } from "framer-motion"
 
 const notes = [
   "Tui chocolate er moto—simple, but ekbar taste korle bhola jay na.",
-  "Ekta chhoto surpriseo kato boro energy dite pare, seta tui ajke bojhli?",
-  "Kono ekta raat e jodi mone pore, ei site ta khule dekho.",
+  "Ekta chhoto surpriseo j koto boro energy dite pare, seta tui ajke bojhli!",
+  "kalker raat ta was some other worldly energy for me!"
 ]
 
 export default function HiddenNotesSection() {
