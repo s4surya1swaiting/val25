@@ -13,9 +13,9 @@ export default function IntroSection() {
       >
         <h1 className="text-4xl md:text-5xl font-bold mb-6 text-glow">Mammam,</h1>
         <p className="text-lg md:text-xl leading-relaxed">
-          Ei site ta ekta special jaiga, tor jonne. Tui jokhon chocolate niye dariye chhili, shei moment ta amar jonne
-          alada chhilo. Unexpected, but perfect. Ei site ta shei moment er ekta digital version—chhoto chhoto golpo gulo
-          ek jaigay. Just scroll kor, bujhte parbi.
+         Tui jokhon chocolate niye dariye chhili, shei moment ta amar jonne alada chhilo. 
+          Unexpected, but perfect. Ei site ta shei moment er ekta digital version—chhoto chhoto moment gulo ek jaigay. 
+          Just scroll kor, bujhte parbi.
         </p>
       </motion.div>
     </section>
