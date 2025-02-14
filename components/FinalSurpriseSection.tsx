@@ -47,7 +47,8 @@ export default function FinalSurpriseSection() {
             transition={{ repeat: Number.POSITIVE_INFINITY, duration: 2 }}
             className="text-9xl text-red-500 text-glow"
           >
-            Happy Valentines' to my Valentine❤️
+            Happy Valentines' to my Valentine
+                          ❤️
           </motion.div>
         </motion.div>
       )}
