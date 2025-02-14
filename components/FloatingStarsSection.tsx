@@ -4,9 +4,9 @@ import { useState } from "react"
 import { motion } from "framer-motion"
 
 const memories = [
-  "Sei ekdin jokhon tui khub excited chhili amake ekta chhoto gift debar jonno.",
-  "Tui akash dekhe thakte pochondo korish, tai ei akasher moddhei amader golpo likhe rakhlam.",
-  "Ekta random moment, ekta simple kotha—sheguloi to actually special.",
+  "Tui khub excited chhili amake gift debar jonno on valentines day, your eyes said all",
+  "Tui akash dekhe thakte pochondo korish, tai ei akasher moddhei amader moment likhe rakhlam.",
+  "Ekta random moment, ekta simple kotha—sheguloi to actually special."
 ]
 
 export default function FloatingStarsSection() {
