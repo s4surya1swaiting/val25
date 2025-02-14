@@ -6,13 +6,13 @@ import { motion } from "framer-motion"
 const questions = [
   {
     question: "What is the brand of chocolate Mammam gave Momo for the first time?",
-    options: ["Bonville", "Mother Dairy", "Amul Dark", "Campco"],
+    options: ["Bonville", "Dairy Milk", "Amul Dark", "Campco"],
     answer: "Bonville",
   },
   {
     question: "What is the brand of chocolate Momo gave Mammam for the first time?",
-    options: ["Bonville", "Mother Dairy", "Amul Dark", "Campco"],
-    answer: "Campco",
+    options: ["Bonville", "Dairy Milk", "Amul Dark", "Campco"],
+    answer: "Dairy Milk",
   },
 ]
 
