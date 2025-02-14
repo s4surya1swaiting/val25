@@ -5,8 +5,8 @@ import type React from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "For Mammam, My Universe",
-  description: "A heartwarming journey through our memories",
+  title: "Happy Valentines Day , MamMam",
+  description: "A heartwarming journey through our memories for the day",
     generator: 'v0.dev'
 }
 
