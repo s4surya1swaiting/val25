@@ -48,7 +48,7 @@ export default function FinalSurpriseSection() {
             className="text-9xl text-red-500 text-glow"
           >
           
-            Happy Valentines' ❤️
+            ❤️
           </motion.div>
         </motion.div>
       )}
